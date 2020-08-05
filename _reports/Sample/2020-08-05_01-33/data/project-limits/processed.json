@@ -1,0 +1,25 @@
+{
+  "data": {
+    "Proposed": {
+      "wips": 0,
+      "limit": 0,
+      "flag": false
+    },
+    "Accepted": {
+      "wips": 1,
+      "limit": 0,
+      "flag": true
+    },
+    "In-Progress": {
+      "wips": 3,
+      "limit": 4,
+      "flag": false
+    },
+    "Done": {
+      "wips": 1,
+      "limit": 0,
+      "flag": true
+    }
+  },
+  "cardType": "Epic"
+}
