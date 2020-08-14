@@ -9,22 +9,22 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'none'",
     "content-type": "application/json; charset=utf-8",
-    "date": "Fri, 14 Aug 2020 18:14:27 GMT",
-    "etag": "W/\"54e49a8604866154f6539b744189fc21\"",
+    "date": "Fri, 14 Aug 2020 18:38:23 GMT",
+    "etag": "W/\"d54294b2336d5320e5cbf70718dac506\"",
     "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
     "server": "GitHub.com",
     "status": "200 OK",
     "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
     "transfer-encoding": "chunked",
-    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding, Accept, X-Requested-With, Accept-Encoding",
+    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding, Accept, X-Requested-With",
     "x-accepted-oauth-scopes": "public_repo, repo",
     "x-content-type-options": "nosniff",
     "x-frame-options": "deny",
     "x-github-media-type": "github.squirrel-girl-preview; format=json, github.starfox-preview; format=json, github.mockingbird-preview; param=sailor-v-preview; format=json, github.inertia-preview; format=json",
-    "x-github-request-id": "07C2:C93E:1BA5D17:21CDF77:5F36D482",
+    "x-github-request-id": "0402:374B:262F8AE:430E282:5F36DA1E",
     "x-oauth-scopes": "admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, read:packages, repo, user, workflow, write:discussion, write:packages",
     "x-ratelimit-limit": "5000",
-    "x-ratelimit-remaining": "4999",
+    "x-ratelimit-remaining": "4945",
     "x-ratelimit-reset": "1597432467",
     "x-xss-protection": "1; mode=block"
   },
@@ -61,7 +61,7 @@
         "site_admin": true
       },
       "created_at": "2020-08-04T21:18:18Z",
-      "updated_at": "2020-08-14T18:11:09Z"
+      "updated_at": "2020-08-14T18:23:33Z"
     }
   ]
 }
