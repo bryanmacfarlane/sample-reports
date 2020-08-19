@@ -9,8 +9,8 @@
     "content-encoding": "gzip",
     "content-security-policy": "default-src 'none'",
     "content-type": "application/json; charset=utf-8",
-    "date": "Tue, 04 Aug 2020 22:49:56 GMT",
-    "etag": "W/\"09532c568c1e78698134092f67ba9f67\"",
+    "date": "Wed, 19 Aug 2020 15:08:51 GMT",
+    "etag": "W/\"4b89dc4418ada16ad1c76fed33c50001\"",
     "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
     "server": "GitHub.com",
     "status": "200 OK",
@@ -21,11 +21,11 @@
     "x-content-type-options": "nosniff",
     "x-frame-options": "deny",
     "x-github-media-type": "github.squirrel-girl-preview; format=json, github.starfox-preview; format=json, github.mockingbird-preview; param=sailor-v-preview; format=json, github.inertia-preview; format=json",
-    "x-github-request-id": "0404:3593:2D44832:4CC996D:5F29E614",
+    "x-github-request-id": "07C5:5B78:1A2FD3:3CAC33:5F3D4081",
     "x-oauth-scopes": "admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, read:packages, repo, user, workflow, write:discussion, write:packages",
     "x-ratelimit-limit": "5000",
     "x-ratelimit-remaining": "4996",
-    "x-ratelimit-reset": "1596584746",
+    "x-ratelimit-reset": "1597853328",
     "x-xss-protection": "1; mode=block"
   },
   "data": [
@@ -57,7 +57,7 @@
         "site_admin": true
       },
       "created_at": "2020-08-04T21:38:32Z",
-      "updated_at": "2020-08-04T21:38:41Z",
+      "updated_at": "2020-08-18T16:41:10Z",
       "column_url": "https://api.github.com/projects/columns/10297953",
       "content_url": "https://api.github.com/repos/bryanmacfarlane/sample-reports/issues/5"
     }
