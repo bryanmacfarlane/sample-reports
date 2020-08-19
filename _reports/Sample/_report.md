@@ -1,6 +1,5 @@
 &nbsp;  
 ## :rocket: Execution  
-&nbsp;  
 | ...             |             :new:              |       :white_check_mark:       |  :hourglass_flowing_sand: <sub><sup>(2)</sup></sub>   |      :checkered_flag:      | ...   |                     :yellow_heart:                     |                      :heart:                      | :calendar: <sub><sup>(>21 days)</sup></sub> | :man_shrugging: <sub><sup>Target Date</sup></sub> | :alarm_clock: <sub><sup>Target Date</sup></sub> |
 | --------------- | :----------------------------: | :----------------------------: | :---------------------------------------------------: | :------------------------: | ----- | :----------------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :-----------------------------------------------: | :---------------------------------------------: |
 | **Total**       |    [0](./Total-proposed.md)    |    [1](./Total-accepted.md)    | [3 :triangular_flag_on_post:](./Total-in-progress.md) |    [1](./Total-done.md)    |       |    [1 :triangular_flag_on_post:](./Total-yellow.md)    |   [1 :triangular_flag_on_post:](./Total-red.md)   |           [](./Total-duration.md)           |             [](./Total-no-target.md)              |           [](./Total-past-target.md)            |
@@ -8,7 +7,8 @@
 | **Reliability** | [0](./Reliability-proposed.md) | [0](./Reliability-accepted.md) |          [1 ](./Reliability-in-progress.md)           | [1](./Reliability-done.md) |       | [1 :triangular_flag_on_post:](./Reliability-yellow.md) |             [](./Reliability-red.md)              |        [](./Reliability-duration.md)        |          [](./Reliability-no-target.md)           |        [](./Reliability-past-target.md)         |
 
 <sub><sup>:new: Proposed => :white_check_mark: Accepted => :hourglass_flowing_sand: In-Progress => :checkered_flag: Done</sup></sub>
-&nbsp;  &nbsp;  
+&nbsp;  &nbsp; 
+&nbsp;  
 ## :ship: Feature Limits  
 | Stage       | Count                                                        | Limit |
 | ----------- | ------------------------------------------------------------ | ----- |
