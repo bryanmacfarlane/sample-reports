@@ -1,0 +1,40 @@
+{
+  "datetime": "2020-08-25T14:20:17.296Z",
+  "datetimeString": "20200825T142017.296Z",
+  "config": {
+    "targets": {
+      "sampleProject": {
+        "type": "project",
+        "htmlUrl": "https://github.com/bryanmacfarlane/sample-reports/projects/1"
+      }
+    },
+    "reports": [
+      {
+        "name": "Sample",
+        "title": "My Project Report",
+        "targets": [
+          "sampleProject"
+        ],
+        "sections": [
+          {
+            "name": "project-groupby-status"
+          },
+          {
+            "name": "project-limits"
+          },
+          {
+            "name": "project-in-progress"
+          },
+          {
+            "name": "project-done"
+          },
+          {
+            "name": "project-new"
+          }
+        ]
+      }
+    ],
+    "output": "_reports"
+  },
+  "rootPath": "/home/runner/work/sample-reports/sample-reports/_reports"
+}
