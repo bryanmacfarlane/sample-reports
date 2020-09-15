@@ -1,0 +1,55 @@
+{
+  "datetime": "2020-09-15T01:34:10.003Z",
+  "datetimeString": "20200915T013410.003Z",
+  "config": {
+    "targets": {
+      "feature-board": {
+        "type": "project",
+        "htmlUrl": "https://github.com/bryanmacfarlane/sample-reports/projects/1",
+        "stages": true
+      },
+      "epic-board": {
+        "type": "project",
+        "htmlUrl": "https://github.com/bryanmacfarlane/sample-reports/projects/2",
+        "stages": false
+      }
+    },
+    "processing": [
+      {
+        "name": "project-reference-labeler",
+        "target": "epic-board",
+        "config": {
+          "write-labels": true
+        }
+      }
+    ],
+    "reports": [
+      {
+        "name": "Sample",
+        "title": "My Project Report",
+        "targets": [
+          "feature-board"
+        ],
+        "sections": [
+          {
+            "name": "project-groupby-status"
+          },
+          {
+            "name": "project-limits"
+          },
+          {
+            "name": "project-in-progress"
+          },
+          {
+            "name": "project-done"
+          },
+          {
+            "name": "project-new"
+          }
+        ]
+      }
+    ],
+    "output": "_reports"
+  },
+  "rootPath": "/home/runner/work/sample-reports/sample-reports/_reports"
+}

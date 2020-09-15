@@ -1,4 +1,4 @@
-## Total > 21 in progress duration
+## Issues for In-Progress Features
   
 ###  [Better errors from service A](https://github.com/bryanmacfarlane/sample-reports/issues/15)  
 > not assigned  
@@ -11,7 +11,3 @@
 ###  [Consistent CSS Styles](https://github.com/bryanmacfarlane/sample-reports/issues/17)  
 > not assigned  
   `> Papercuts` `>> UI Polish` `feature` `red`
-  
-###  [More logging in service B](https://github.com/bryanmacfarlane/sample-reports/issues/19)  
-> not assigned  
-  `> Reliability` `>> Improved Logging` `feature`
