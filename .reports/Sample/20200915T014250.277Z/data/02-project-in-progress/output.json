@@ -319,7 +319,7 @@
         "flagHoursLastUpdated": true,
         "status": "red",
         "previousStatus": "red",
-        "hoursInProgress": 649.9793419444444,
+        "hoursInProgress": 650.0065488888889,
         "inProgressSince": "a month ago"
       },
       {
@@ -683,7 +683,7 @@
         "flagHoursLastUpdated": true,
         "status": "yellow",
         "previousStatus": "yellow",
-        "hoursInProgress": 656.7301752777778,
+        "hoursInProgress": 656.7573822222222,
         "inProgressSince": "a month ago"
       },
       {
@@ -1523,7 +1523,7 @@
         "flagHoursLastUpdated": true,
         "status": "green",
         "previousStatus": "green",
-        "hoursInProgress": 656.9848975,
+        "hoursInProgress": 657.0121044444444,
         "inProgressSince": "a month ago"
       }
     ]
