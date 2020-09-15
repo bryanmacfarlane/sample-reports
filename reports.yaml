@@ -22,6 +22,10 @@ reports:
     targets: ['feature-board']
     sections:
       - name: "project-groupby-status"
+        config:
+          limits:
+            'Papercuts': 2
+            'Reliability': 2
       - name: "project-limits"
       - name: "project-in-progress"
       - name: "project-done"
