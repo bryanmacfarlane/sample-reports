@@ -17,6 +17,7 @@ processing:
       
 reports:
   - name: Sample
+    kind: markdown
     title: "My Project Report"
     targets: ['feature-board']
     sections:
