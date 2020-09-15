@@ -4,6 +4,9 @@
   "target-date-comment-field": "target date",
   "flag-in-progress-days": 21,
   "wip-limit": 2,
-  "limits": {},
+  "limits": {
+    "Papercuts": 2,
+    "Reliability": 2
+  },
   "status-label-match": "(?:green|yellow|red)"
 }
