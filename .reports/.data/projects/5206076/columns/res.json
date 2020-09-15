@@ -1,0 +1,64 @@
+{
+  "status": 200,
+  "url": "https://api.github.com/projects/5206076/columns",
+  "headers": {
+    "access-control-allow-origin": "*",
+    "access-control-expose-headers": "ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset",
+    "cache-control": "private, max-age=60, s-maxage=60",
+    "connection": "close",
+    "content-encoding": "gzip",
+    "content-security-policy": "default-src 'none'",
+    "content-type": "application/json; charset=utf-8",
+    "date": "Tue, 15 Sep 2020 01:38:41 GMT",
+    "etag": "W/\"d735f82c827279256614a0811732b36f\"",
+    "referrer-policy": "origin-when-cross-origin, strict-origin-when-cross-origin",
+    "server": "GitHub.com",
+    "status": "200 OK",
+    "strict-transport-security": "max-age=31536000; includeSubdomains; preload",
+    "transfer-encoding": "chunked",
+    "vary": "Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding, Accept, X-Requested-With",
+    "x-accepted-oauth-scopes": "public_repo, repo",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-github-media-type": "github.squirrel-girl-preview; format=json, github.starfox-preview; format=json, github.mockingbird-preview; param=sailor-v-preview; format=json, github.inertia-preview; format=json",
+    "x-github-request-id": "0403:4A1F:BE47A0:1FC1E81:5F601B21",
+    "x-oauth-scopes": "admin:enterprise, admin:gpg_key, admin:org, admin:org_hook, admin:public_key, admin:repo_hook, delete:packages, delete_repo, gist, notifications, read:packages, repo, user, workflow, write:discussion, write:packages",
+    "x-ratelimit-limit": "5000",
+    "x-ratelimit-remaining": "4803",
+    "x-ratelimit-reset": "1600135231",
+    "x-ratelimit-used": "197",
+    "x-xss-protection": "1; mode=block"
+  },
+  "data": [
+    {
+      "url": "https://api.github.com/projects/columns/10474949",
+      "project_url": "https://api.github.com/projects/5206076",
+      "cards_url": "https://api.github.com/projects/columns/10474949/cards",
+      "id": 10474949,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW4xMDQ3NDk0OQ==",
+      "name": "Papercuts",
+      "created_at": "2020-08-18T15:40:18Z",
+      "updated_at": "2020-08-18T16:22:49Z"
+    },
+    {
+      "url": "https://api.github.com/projects/columns/10474955",
+      "project_url": "https://api.github.com/projects/5206076",
+      "cards_url": "https://api.github.com/projects/columns/10474955/cards",
+      "id": 10474955,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW4xMDQ3NDk1NQ==",
+      "name": "Reliability",
+      "created_at": "2020-08-18T15:41:07Z",
+      "updated_at": "2020-08-18T16:44:04Z"
+    },
+    {
+      "url": "https://api.github.com/projects/columns/10475104",
+      "project_url": "https://api.github.com/projects/5206076",
+      "cards_url": "https://api.github.com/projects/columns/10475104/cards",
+      "id": 10475104,
+      "node_id": "MDEzOlByb2plY3RDb2x1bW4xMDQ3NTEwNA==",
+      "name": "Next Gen Architecture",
+      "created_at": "2020-08-18T15:52:25Z",
+      "updated_at": "2020-08-18T16:13:44Z"
+    }
+  ]
+}
