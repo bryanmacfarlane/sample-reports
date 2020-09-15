@@ -1,12 +1,24 @@
 targets: 
-  sampleProject:
+  feature-board:
     type: project
     htmlUrl: https://github.com/bryanmacfarlane/sample-reports/projects/1
-
+    stages: true
+    
+  epic-board:
+    type: project
+    htmlUrl: https://github.com/bryanmacfarlane/sample-reports/projects/2
+    stages: false
+    
+processing:
+  - name: project-reference-labeler
+    target: 'epic-board'
+    config:
+      write-labels: true
+      
 reports:
   - name: Sample
     title: "My Project Report"
-    targets: ['sampleProject']
+    targets: ['feature-board']
     sections:
       - name: "project-groupby-status"
       - name: "project-limits"
